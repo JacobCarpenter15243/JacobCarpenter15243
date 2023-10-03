@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JacobCarpenter15243
 - 👀 I’m interested in learning how tocode
-- 🌱 I’m currently learning cybersecutryand robotics
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning cyber secutryand robotics
+  
   
 
 <!---
